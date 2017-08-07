@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/treyvis/FCC-Back-End-File-Metadata/issues"
   },
-  "homepage": "https://github.com/treyvis/FCC-Back-End-File-Metadata#readme"
+  "homepage": "https://github.com/treyvis/FCC-Back-End-File-Metadata#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
