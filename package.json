@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/treyvis/FCC-Back-End-File-Metadata#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "multer": "^1.3.0"
   }
 }
