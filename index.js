@@ -4,7 +4,7 @@ const express = require('express')
 const app = express()
 
 app.get('/',(req,res) => {
-	res.send('You found me')
+	res.sendFile(__dirname + '/views/index.html')
 })
 
 app.listen(3030, () => {
